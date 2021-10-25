@@ -2,7 +2,7 @@ package = "kongheader"
 version = "1.0-4"
 
 source = {
-  url = "git://github.com/yesinteractive/kongheader.git"
+  url = "git://github.com/BorysBagrii/kongheader.git"
 }
 
 description = {
